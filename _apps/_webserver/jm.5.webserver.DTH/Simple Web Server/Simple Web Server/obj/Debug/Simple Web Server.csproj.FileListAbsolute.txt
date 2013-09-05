@@ -1,0 +1,133 @@
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.exe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.exe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.exe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.dll
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.exe
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.4.Silverlight Client and Server for Netduino Plus\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.csprojResolveAssemblyReference.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\Simple Web Server.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.csprojResolveAssemblyReference.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\be\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\le\Simple Web Server.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver.DTH\Simple Web Server\Simple Web Server\obj\Debug\Simple Web Server.pdb

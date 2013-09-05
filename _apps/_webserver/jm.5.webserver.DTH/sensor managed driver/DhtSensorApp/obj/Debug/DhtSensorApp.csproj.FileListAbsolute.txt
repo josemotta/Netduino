@@ -1,0 +1,59 @@
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\le\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\be\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\le\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\be\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\le\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\le\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\be\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\be\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\be\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\be\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\le\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\le\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\DhtSensorApp\obj\Debug\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\le\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\be\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\le\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\be\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\DhtSensorApp.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\le\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\le\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\be\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\be\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\DhtSensorApp.csprojResolveAssemblyReference.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\be\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\be\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\le\DhtSensorApp.pe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\le\DhtSensorApp.pdbx
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\DhtSensorApp.exe
+C:\_public\work.netduino\Netduino\_apps\_webserver\jm.5.webserver from jm.4\Dht.11.22.sensor managed driver\DhtSensorApp\obj\Debug\DhtSensorApp.pdb

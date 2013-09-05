@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="SilverlightOnNetduino.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="240"
+             d:DesignWidth="400"
+             xmlns:data="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk">
+
+    <StackPanel x:Name="LayoutRoot"
+                Background="White"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+        <Border BorderThickness="2"
+                BorderBrush="Blue"
+                CornerRadius="3">
+            <StackPanel>
+                <TextBlock Text="Silverlight on the Netduino"
+                           FontSize="16"
+                           FontWeight="ExtraBlack"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center" />
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="200" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="300" />
+                        <ColumnDefinition Width="100" />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="{Binding NumberOfReadings, StringFormat='Number of readings \{0\}'}" />
+                    <data:DataGrid Grid.Column="0"
+                                   Grid.Row="1"
+                                   DataContext="{Binding}"
+                                   AutoGenerateColumns="False"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Top"
+                                   ItemsSource="{Binding Readings}"
+                                   Width="300"
+                                   Height="200">
+                        <data:DataGrid.Columns>
+                            <data:DataGridTemplateColumn Header="Date + Time"
+                                                         Width="135">
+                                <data:DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding When}"
+                                                   HorizontalAlignment="Center"
+                                                   VerticalAlignment="Center" />
+                                    </DataTemplate>
+                                </data:DataGridTemplateColumn.CellTemplate>
+                            </data:DataGridTemplateColumn>
+                            <data:DataGridTemplateColumn Header="Temperature"
+                                                         Width="135">
+                                <data:DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Temperature}"
+                                                   HorizontalAlignment="Center"
+                                                   VerticalAlignment="Center" />
+                                    </DataTemplate>
+                                </data:DataGridTemplateColumn.CellTemplate>
+                            </data:DataGridTemplateColumn>
+                        </data:DataGrid.Columns>
+                    </data:DataGrid>
+
+                    <Button x:Name="btnStartStopTimer"
+                            Content="Start"
+                            Click="btnStartStopTimer_Click"
+                            Height="25"
+                            Width="75"
+                            Grid.Column="1"
+                            Grid.Row="1"
+                            VerticalAlignment="Top" />
+                </Grid>
+            </StackPanel>
+        </Border>
+    </StackPanel>
+</UserControl>

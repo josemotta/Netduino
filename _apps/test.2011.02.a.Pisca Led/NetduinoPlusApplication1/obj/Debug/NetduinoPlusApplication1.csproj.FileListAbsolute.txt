@@ -1,0 +1,96 @@
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.exe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.exe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdb
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdb
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.exe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.pdb
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pdbx
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.exe
+C:\Users\jo\AppData\Local\Temporary Projects\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.exe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.exe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.exe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pdbx
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.exe
+C:\Users\jo\documents\visual studio 2010\Projects\NetduinoPlusApplication1\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.exe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.exe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.exe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\NetduinoPlusApplication1.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\le\NetduinoPlusApplication1.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\be\NetduinoPlusApplication1.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.csprojResolveAssemblyReference.cache
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\be\NetduinoPlusApplication1.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\le\NetduinoPlusApplication1.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.exe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\obj\Debug\NetduinoPlusApplication1.pdb
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_public\work.netduino\Netduino\_apps\test.2011.02.a.Pisca Led\NetduinoPlusApplication1\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb

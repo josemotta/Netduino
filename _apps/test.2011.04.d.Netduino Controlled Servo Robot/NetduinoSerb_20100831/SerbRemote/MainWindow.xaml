@@ -1,0 +1,48 @@
+﻿<Window x:Class="SerbRemote.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Background="#FFE8E8E8">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2" Margin="20,12,20,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Button Width="55" Height="55" Content="Forward" Grid.Column="1" Margin="4" Tag="F" Click="CommandButtonClick" />
+            <!--<Button Width="55" Height="55" Content="Left" Grid.Column="0" Margin="4" />-->
+            <!--<Button Width="55" Height="55" Content="Right" Grid.Column="2" Margin="4" />-->
+            <Button Width="55" Height="55" Content="Left" Grid.Column="0" Grid.Row="1" Margin="4" Tag="L" />
+            <Button Width="55" Height="55" Content="Right" Grid.Column="2" Grid.Row="1" Margin="4" Tag="R" />
+            
+            <Button Width="55" Height="55" Content="Stop" Grid.Column="1" Grid.Row="1" Margin="4" Tag="S" />
+            <Button Width="55" Height="55" Content="Backward" Grid.Column="1" Grid.Row="2" Margin="4" Tag="B" />
+
+        </Grid>
+        <GroupBox Header="Max Power" Margin="12,12,2,0" Grid.Column="0" >
+            <StackPanel HorizontalAlignment="Center">    
+                <Slider Height="200" HorizontalAlignment="Center" Name="sliderPower" VerticalAlignment="Top" Orientation="Vertical" TickPlacement="Both" Maximum="20" TickFrequency="1" IsSnapToTickEnabled="True" Value="20"/>
+                <TextBlock Margin="2,6,2,0" Text="{Binding ElementName=sliderPower, Path=Value, StringFormat=F0}" TextAlignment="Center" HorizontalAlignment="Center" />
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Duration" Margin="2,12,2,0" Grid.Column="1" >
+            <StackPanel HorizontalAlignment="Center">
+                <Slider Height="200" HorizontalAlignment="Center" Name="sliderDuration" VerticalAlignment="Top" Orientation="Vertical" TickPlacement="Both" Maximum="25" TickFrequency="1" IsSnapToTickEnabled="True" Value="10" />
+                <TextBlock Margin="2,6,2,0" Text="{Binding ElementName=sliderDuration, Path=Value, StringFormat=F0}" TextAlignment="Center" HorizontalAlignment="Center" />
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

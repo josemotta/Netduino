@@ -1,0 +1,12 @@
+http://www.element14.com/community/groups/arduino/blog/2012/09/05/netduino-file-server
+
+The server is capable of executing the following commands:
+
+ 
+List – lists the files that are on the netduino SD card
+
+Get – transfers a file from the netduino to the PC
+
+Put – transfers a file from the PC to the netduino
+
+Delete – deletes a file from the netduino SD card

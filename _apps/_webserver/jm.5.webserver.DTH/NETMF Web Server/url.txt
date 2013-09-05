@@ -1,0 +1,8 @@
+https://netmfwebserver.codeplex.com/SourceControl/latest#WebServer.cs
+
+http://blogs.msdn.com/b/laurelle/archive/2012/05/29/creating-an-efficient-http-web-server-for-net-microframework-netmf.aspx?wa=wsignin1.0
+
+http://blogs.msdn.com/b/laurelle/archive/2011/12/07/creating-dynamically-a-web-page-using-net-micro-framework.aspx
+
+antigo
+http://blogs.msdn.com/b/laurelle/archive/2011/12/07/creating-dynamically-a-web-page-using-net-micro-framework.aspx

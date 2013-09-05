@@ -1,0 +1,3 @@
+http://forums.netduino.com/index.php?/topic/2560-dht1122-sensor-managed-driver/page-3
+
+http://www.adafruit.com/products/386

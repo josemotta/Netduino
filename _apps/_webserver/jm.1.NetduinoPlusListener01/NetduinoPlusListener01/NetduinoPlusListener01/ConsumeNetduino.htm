@@ -1,0 +1,59 @@
+<html>
+<head>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/themes/base/jquery-ui.css" type="text/css" media="all" />
+<link rel="stylesheet" href="http://static.jquery.com/ui/css/demo-docs-theme/ui.theme.css" type="text/css" media="all" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.3/jquery-ui.min.js" type="text/javascript"></script>
+
+<script>
+	$(function() {
+		$( "#button1" ).button().click(buttonOn);
+		$( "#button2" ).button().click(buttonOff);
+	});
+
+function NetRequest(cmd, param1, param2)
+{
+  urlStr = "http://192.168.10.200/" + cmd + "/" + param1;
+  if (param2 != undefined) urlStr += "/" + param2;
+  //alert(urlStr);
+
+$.getJSON(
+            urlStr,
+            //function (result) { alert(result); alert(result.message); }
+            function (result) { alert(result.message); }
+        );
+/*
+$.ajax({
+  url: urlStr,
+  success: function() { alert("success"); },
+  complete: function(XMLHttpRequest, textStatus) { completeProc(XMLHttpRequest.responseText) },
+  error: function(XMLHttpRequest, textStatus, errorThrown) { alert("Error"); },
+  dataType: 'html'
+});
+*/
+
+}
+
+function completeProc(responseText)
+{
+  alert("in completeProc: '" + responseText + "'");
+  $("#response").html( responseText );
+}
+
+function buttonOn()
+{
+    NetRequest("led", 1, 0);
+}
+
+function buttonOff()
+{
+    NetRequest("led", 0, 0);
+}
+</script>
+
+</head>
+<body>
+<p><button id="button1">On</button> <button id="button2">Off</button></p>
+<div id="response"></div>
+</body>
+</html>

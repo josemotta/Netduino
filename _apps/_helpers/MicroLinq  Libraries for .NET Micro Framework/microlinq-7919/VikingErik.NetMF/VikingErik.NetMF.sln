@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingErik.NetMF.Collections", "VikingErik.NetMF.Collections\VikingErik.NetMF.Collections.csproj", "{E354053A-360F-45A6-9C94-E88D933C5312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingErik.NetMF.ParallelExtensions", "VikingErik.NetMF.ParallelExtensions\VikingErik.NetMF.ParallelExtensions.csproj", "{A80C0FC6-4B28-4E3D-8D00-6F95932E1468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingErik.NetMF.MicroLinq", "VikingErik.NetMF.MicroLinq\VikingErik.NetMF.MicroLinq.csproj", "{FA64F384-FC2C-465B-8D9A-DA9E41F56CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingErik.NetMF.MicroLinq.PrebuiltDelegates", "VikingErik.NetMF.MicroLinq.PrebuiltDelegates\VikingErik.NetMF.MicroLinq.PrebuiltDelegates.csproj", "{7F7C44D0-A55B-427A-A45F-6523667739D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05D83BD1-3294-47FF-B3A9-25F1854F7C57}"
+	ProjectSection(SolutionItems) = preProject
+		Collections.nuspec = Collections.nuspec
+		MicroLinq.nuspec = MicroLinq.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs17
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VikingErik.NetMF.Collections\\VikingErik.NetMF.Collections.csproj
+		SccProjectName1 = VikingErik.NetMF.Collections
+		SccLocalPath1 = VikingErik.NetMF.Collections
+		SccProjectUniqueName2 = VikingErik.NetMF.MicroLinq\\VikingErik.NetMF.MicroLinq.csproj
+		SccProjectName2 = VikingErik.NetMF.MicroLinq
+		SccLocalPath2 = VikingErik.NetMF.MicroLinq
+		SccProjectUniqueName3 = VikingErik.NetMF.ParallelExtensions\\VikingErik.NetMF.ParallelExtensions.csproj
+		SccProjectName3 = VikingErik.NetMF.ParallelExtensions
+		SccLocalPath3 = VikingErik.NetMF.ParallelExtensions
+		SccProjectUniqueName4 = VikingErik.NetMF.MicroLinq.PrebuiltDelegates\\VikingErik.NetMF.MicroLinq.PrebuiltDelegates.csproj
+		SccProjectName4 = VikingErik.NetMF.MicroLinq.PrebuiltDelegates
+		SccLocalPath4 = VikingErik.NetMF.MicroLinq.PrebuiltDelegates
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E354053A-360F-45A6-9C94-E88D933C5312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E354053A-360F-45A6-9C94-E88D933C5312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E354053A-360F-45A6-9C94-E88D933C5312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E354053A-360F-45A6-9C94-E88D933C5312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80C0FC6-4B28-4E3D-8D00-6F95932E1468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80C0FC6-4B28-4E3D-8D00-6F95932E1468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80C0FC6-4B28-4E3D-8D00-6F95932E1468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80C0FC6-4B28-4E3D-8D00-6F95932E1468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA64F384-FC2C-465B-8D9A-DA9E41F56CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64F384-FC2C-465B-8D9A-DA9E41F56CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64F384-FC2C-465B-8D9A-DA9E41F56CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64F384-FC2C-465B-8D9A-DA9E41F56CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7C44D0-A55B-427A-A45F-6523667739D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7C44D0-A55B-427A-A45F-6523667739D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7C44D0-A55B-427A-A45F-6523667739D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7C44D0-A55B-427A-A45F-6523667739D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\SilverlightOnNetduino\SilverlightOnNetduino.Web\bin\SilverlightOnNetduino.Web.dll
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\SilverlightOnNetduino\SilverlightOnNetduino.Web\bin\SilverlightOnNetduino.Web.pdb
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\SilverlightOnNetduino\SilverlightOnNetduino.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\SilverlightOnNetduino\SilverlightOnNetduino.Web\obj\Debug\SilverlightOnNetduino.Web.dll
+D:\Marks Docs\Visual Studio 2010\Projects\Netduino\SilverlightOnNetduino\SilverlightOnNetduino.Web\obj\Debug\SilverlightOnNetduino.Web.pdb
