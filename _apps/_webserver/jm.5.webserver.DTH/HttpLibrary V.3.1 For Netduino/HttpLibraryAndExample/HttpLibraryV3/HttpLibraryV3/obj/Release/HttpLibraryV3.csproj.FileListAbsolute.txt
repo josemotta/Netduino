@@ -1,0 +1,160 @@
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pe
+C:\Users\Nart LapTop\Desktop\HttpLibraryAndExample\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pe
+C:\Users\Nart Desktop\Desktop\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.csprojResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\doc.xml
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\le\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\be\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\bin\Release\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.csprojResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpLibraryV3\HttpLibraryV3\obj\Release\HttpLibraryV3.pdb

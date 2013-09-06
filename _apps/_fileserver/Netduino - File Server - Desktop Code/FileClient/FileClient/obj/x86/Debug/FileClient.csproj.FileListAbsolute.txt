@@ -1,0 +1,11 @@
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\bin\Debug\FileClient.exe
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\bin\Debug\FileClient.pdb
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\MainWindow.baml
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\MainWindow.g.cs
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\App.g.cs
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient_MarkupCompile.cache
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient.g.resources
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient.Properties.Resources.resources
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient.csproj.GenerateResource.Cache
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient.exe
+C:\_git\Netduino\_apps\_fileserver\Netduino - File Server - Desktop Code\FileClient\FileClient\obj\x86\Debug\FileClient.pdb

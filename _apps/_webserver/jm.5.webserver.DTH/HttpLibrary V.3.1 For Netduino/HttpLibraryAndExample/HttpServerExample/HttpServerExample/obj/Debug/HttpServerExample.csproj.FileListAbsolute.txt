@@ -1,0 +1,166 @@
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\le\HttpServerExample.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\be\HttpServerExample.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\le\HttpServerExample.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\be\HttpServerExample.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\HttpServerExample.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\HttpServerExample.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\HttpServerExample.csprojResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\HttpServerExample\obj\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.csprojResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpServerExample\HttpServerExample\bin\Debug\HttpLibraryV3.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpLibraryV3.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.csprojResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pdbx
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.exe
+C:\Users\Nart Schinackow\Desktop\HttpLibraryAndExample-v.3.1 update 1\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.exe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.exe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.exe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpServerExample.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\le\HttpServerExample.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\be\HttpServerExample.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\HttpLibraryV3.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\HttpLibraryV3.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\HttpLibraryV3.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.csprojResolveAssemblyReference.cache
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\TinyCLR_DebugReferences.cache
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\be\HttpServerExample.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\le\HttpServerExample.pdbx
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.exe
+C:\_git\Netduino\_apps\_webserver\jm.5.webserver.DTH\HttpLibrary V.3.1 For Netduino\HttpLibraryAndExample\HttpServerExample\HttpServerExample\obj\Debug\HttpServerExample.pdb

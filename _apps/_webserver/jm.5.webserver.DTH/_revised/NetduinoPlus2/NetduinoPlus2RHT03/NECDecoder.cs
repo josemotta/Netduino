@@ -45,7 +45,7 @@ namespace NetduinoPlus2RHT03
 
             _pulses[_currentIndex++] = time.Ticks;
 
-            _timeout.Change(15, Timeout.Infinite);
+            _timeout.Change(150, Timeout.Infinite);
         }
 
         //static void PulseTimedOut(object state)
@@ -111,7 +111,8 @@ namespace NetduinoPlus2RHT03
 
             ConvertPulsesToMicroseconds(numberOfPulses);
 
-            if (numberOfPulses != 68) return;
+            //if (numberOfPulses != 68) return;
+            //if (!IsPulseMatch(_pulses[0], 9000) || !IsPulseMatch(_pulses[1], 4500))
             if (!IsPulseMatch(_pulses[0], 9000) || !IsPulseMatch(_pulses[1], 4500))
             {
                 Debug.Print("Did not find the correct burst & space.");

@@ -76,7 +76,7 @@ namespace NetduinoPlus2RHT03
 
         static void necRemoteControlDecoder_OnIrCommandReceived(UInt32 irData)
         {
-            Debug.Print("Ir Command Received: " + irData);
+            Debug.Print("Ir Command Received: " + UlongToHexString((ulong) irData));
         }
 
 

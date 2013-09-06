@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Samduino</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="/css/main.css" type="text/css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<h3>AC Control</h3>
+		<p>Use these buttons to control the AC unit.</p>
+		<p>AC unit is currently <span id="status"></span></p>
+		<div class="temp"></div>
+		<form>
+			<p><input id="refresh" type="button" value="Refresh Status" /></p>
+			<p><input id="power" type="button" value="Toggle Power" /></p>
+			<p><input id="onTime" type="button" value="Set on Timer" /> Minutes: <input type="text" id="onMin" style="width: 25px;" maxlength="3" /></p>
+			<p><input id="offTime" type="button" value="Set off Timer" /> Minutes: <input type="text" id="offMin" style="width: 25px;" maxlength="3" /></p>
+			<p><input id="onTemp" type="button" value="Set high Temp" /> Temperature: <input type="text" id="onDegrees" style="width: 50px;" maxlength="6" /> Current: <span id="onT"</span></p>
+			<p><input id="offTemp" type="button" value="Set low Temp" /> Temperature: <input type="text" id="offDegrees" style="width: 50px;" maxlength="6" /> Current: <span id="offT"</span></p>
+		</form> 
+		<script src="/lib/ACcontrol.js" type="text/javascript"></script>
+	</body>
+</html>

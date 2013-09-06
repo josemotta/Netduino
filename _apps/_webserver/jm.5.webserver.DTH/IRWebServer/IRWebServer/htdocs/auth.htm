@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Samduino</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="/css/main.css" type="text/css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<h3>AC Master</h3>
+		<p>Welcome to my AC controller page, the current temperature in my apartment is: </p>
+		<div class="temp"></div>
+		<form name="input" action="/auth.htm" method="get">
+			<p><input type="image" src="/img/Log-In.png" alt="Log in" /></p>
+			<p>Password: <input id="password" type="password" name="login" /></p>
+		</form> 
+		<script src="/lib/GetInTemp.js" type="text/javascript"></script>
+	</body>
+</html>
