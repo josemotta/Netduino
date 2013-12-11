@@ -1,0 +1,2 @@
+C:\_git\Netduino\_apps\test.2013.WeatherStation\mfWeatherStation\WeatherStation\obj\Debug\WeatherStationNetMf42.csprojResolveAssemblyReference.cache
+C:\_git\Netduino\_apps\test.2013.WeatherStation\mfWeatherStation\WeatherStation\obj\Debug\TinyCLR_DebugReferences.cache

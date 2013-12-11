@@ -1,0 +1,286 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+        <link rel="Stylesheet" href="css/modern.css" />
+        <link rel="Stylesheet" href="css/modern-responsive.css" />
+        <link rel="Stylesheet" href="css/theme-dark.css" />
+        <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+		<title>Stazione meteo</title>
+
+        <script type="text/javascript">
+
+            var ambientLight = ["notte", "molto nuvoloso", "coperto", "sereno"];
+            var t;
+
+            $(document).ready(function (e) {
+
+                // timer aggiornamento dati
+                t = setTimeout(getSensorsData, 1000);
+
+                // richiesa configurazione
+                $.ajax({
+                    url: "config/settings",
+                    cache: false,
+                    type: "GET",
+                    success: function (data) {
+
+                        var settings = $.parseJSON(data);
+
+                        if (settings.isDhcpEnabled) {
+                            $("#isDhcpEnabled").attr("checked", true);
+                            $("#ipAddress").attr("disabled", "disabled");
+                            $("#subnetMask").attr("disabled", "disabled");
+                            $("#gatewayAddress").attr("disabled", "disabled");
+                        }
+                        else {
+                            $("#isDhcpEnabled").attr("checked", false);
+                            $("#ipAddress").removeAttr("disabled");
+                            $("#subnetMask").removeAttr("disabled");
+                            $("#gatewayAddress").removeAttr("disabled");
+                        }
+
+                        $("#ipAddress").val(settings.ipAddress);
+                        $("#subnetMask").val(settings.subnetMask);
+                        $("#gatewayAddress").val(settings.gatewayAddress);
+
+                        $("#isDataLogEnabled").attr("checked", settings.isDataLogEnabled);
+                    }
+                });
+
+                // assegna eventi
+                $("#isDhcpEnabled").change(changeDhcp);
+                $("#btnSave").click(saveConfig);
+                $("#btnDateTime").click(progDateTime);
+            });
+
+            /*
+            * Gestisce il cambiamento dell'impostazione DHCP
+            */
+            function changeDhcp() {
+                // DHCP abilitato, disattivo i campi relativi alla rete
+                if ($("#isDhcpEnabled").attr("checked")) {
+                    $("#ipAddress").attr("disabled", "disabled");
+                    $("#subnetMask").attr("disabled", "disabled");
+                    $("#gatewayAddress").attr("disabled", "disabled");
+                }
+                // DHCP non abilitato, attivo le impostazioni statiche
+                else {
+                    $("#ipAddress").removeAttr("disabled");
+                    $("#subnetMask").removeAttr("disabled");
+                    $("#gatewayAddress").removeAttr("disabled");
+                }
+            }
+
+            /*
+            * Gestisce il salvataggio della configurazione
+            */
+            function saveConfig() {
+                
+                // costruzione dei dati di configurazione da inviare via POST
+                var settings = "ipAddress=" + $("#ipAddress").val() + 
+                               "&subnetMask=" + $("#subnetMask").val() + 
+                               "&gatewayAddress=" + $("#gatewayAddress").val();
+
+                if ($("#isDhcpEnabled").attr("checked"))
+                    settings += "&isDhcpEnabled=true";
+                else
+                    settings += "&isDhcpEnabled=false";
+
+                if ($("#isDataLogEnabled").attr("checked"))
+                    settings += "&isDataLogEnabled=true";
+                else
+                    settings += "&isDataLogEnabled=false";
+
+                // richiesta salvataggio impostazioni
+                $.ajax({
+                    url: "config/settings",
+                    cache: false,
+                    type: "POST",
+                    data: settings
+                });
+            }
+
+            /*
+            * Gestisce la programmazione data/ora
+            */
+            function progDateTime() {
+
+                var dateTime = new Date();
+
+                // costruzione data nel formato yyyyMMdd
+                var yyyy = dateTime.getFullYear().toString();
+                var MM = (dateTime.getMonth() + 1).toString();
+                if (MM < 10)
+                    MM = "0" + MM;
+                var dd = dateTime.getDate().toString();
+                if (dd < 10)
+                    dd = "0" + dd;
+
+                var date = yyyy + MM + dd;
+
+                // costruzione ora nel formato HHmmss
+                var HH = dateTime.getHours().toString();
+                if (HH < 10)
+                    HH = "0" + HH;
+                var mm = dateTime.getMinutes().toString();
+                if (mm < 10)
+                    mm = "0" + mm;
+                var ss = dateTime.getSeconds().toString();
+                if (ss < 10)
+                    ss = "0" + ss;
+
+                var time = HH + mm + ss;
+                
+                // invio richiesta impostazione data/ora
+                $.ajax({
+                    url: "config/datetime",
+                    cache: false,
+                    type: "POST",
+                    data: "date=" + date + "&time=" + time
+                });
+                
+            }
+
+            /*
+            * Gestisce la richiesta dei dati dei sensori
+            */
+            function getSensorsData() {
+
+                $.ajax({
+                    url: "sensors",
+                    cache: false,
+                    type: "GET",
+                    success: function (data) {
+
+                        var info = $.parseJSON(data);
+
+                        $("#temperature").text(info.temperature);
+                        $("#humidity").text(info.humidity);
+                        //$("#ldrResistance").text(info.ldrResistance);
+                        $("#ambientLight").text(ambientLight[info.ambientLight]);
+                        $("#windSpeed").text(info.windSpeed);
+
+
+                    },
+                    complete: function (data) {
+                        clearTimeout(t);
+                        t = setTimeout(getSensorsData, 1000);
+                    }
+                });
+
+
+            }
+        </script>
+	</head>
+	<body class="modern-ui">
+        
+        <div class="page secondary">
+            <div class="page-header">
+                <div class="page-header-content">
+                    <h1>Stazione meteo<small>pannello di controllo</small></h1>
+                </div>
+            </div>
+
+            <div class="page-region">
+                <div class="page-region-content">
+                    <div class="grid">
+                        <div class="row">
+                            <div class="span10">
+                                <div class="clearfix">
+	                                <div class="tile bg-color-green">
+                                        <div class="tile-content">
+                                            <h2 id="temperature"></h2>
+                                            <h4>°C</h4>
+                                        </div>
+                                        <div class="brand">
+                                            <div class="name">temperatura</div>
+                                        </div>
+                                    </div>
+                                    <div class="tile bg-color-orange">
+                                        <div class="tile-content">
+                                            <h2 id="humidity"></h2>
+                                            <h4>%</h4>
+                                        </div>
+                                        <div class="brand">
+                                            <div class="name">umidità</div>
+                                        </div>
+                                    </div>
+                                    <div class="tile bg-color-blue">
+                                        <div class="tile-content">
+                                            <h2 id="windSpeed"></h2>
+                                            <h4>km/h</h4>
+                                        </div>
+                                        <div class="brand">
+                                            <div class="name">vento</div>
+                                        </div>
+                                    </div>
+                                    <div class="tile bg-color-greenDark">
+                                        <div class="tile-content">
+                                            <h2 id="ambientLight"></h2>
+                                            <!--<h2 id="ldrResistance">150</h2>-->
+                                            <!--<h4>Ohm</h4>-->
+                                        </div>
+                                        <div class="brand">
+                                            <div class="name">luminosità</div>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid span6">
+                        <div class="row">
+                            <div class="span6">
+                                <h2>Configurazione</h2>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="span3">
+                                <form>
+                                    <h3>Impostazioni di rete</h3>
+                                    <h4>DHCP</h4>
+                                    <label class="input-control switch">
+                                        <input type="checkbox" id="isDhcpEnabled" name="isDhcpEnabled"/>
+                                        <span class="helper"></span>
+                                    </label>
+                                    <h4>Indirizzo IP</h4>
+                                    <div class="input-control text">
+                                        <input type="text" id="ipAddress" name="ipAddress" maxlength="15"/>
+                                    </div>
+                                    <h4>Subnet Mask</h4>
+                                    <div class="input-control text">
+                                        <input type="text" id="subnetMask" name="subnetMask" maxlength="15"/>
+                                    </div>
+                                    <h4>Gateway</h4>
+                                    <div class="input-control text">
+                                        <input type="text" id="gatewayAddress" name="gatewayAddress" maxlength="15"/>
+                                    </div>
+
+                                    
+                                </form>
+                            </div>
+                            <div class="span3">
+                                <h3>Impostazioni generali</h3>
+                                <h4>Data Logging</h4>
+                                <label class="input-control switch">
+                                    <input type="checkbox" id="isDataLogEnabled" name="isDataLogEnabled"/>
+                                    <span class="helper"></span>
+                                </label>
+                                <h4>Data/ora</h4>
+                                <input type="button" id="btnDateTime" value="Imposta" />
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="span6">
+                                <input type="button" id="btnSave" value="Salva"/>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        <//div>
+	</body>
+</html>
