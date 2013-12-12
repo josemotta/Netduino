@@ -43,7 +43,7 @@ namespace IRTransmitter
 
             //create the codec to be used
             var codec = new InfraredCodecNec(irtx);
-            codec.ExtendedMode = true;
+            //codec.ExtendedMode = true;
 
             ////define the button for decrement speed
             //var btn_dec = new InterruptPort(
@@ -73,16 +73,16 @@ namespace IRTransmitter
 
             //define the button for the direction
             var btn_dir = new InterruptPort(
-                Pins.ONBOARD_SW1,
-               false,
-                Port.ResistorMode.Disabled,
-                Port.InterruptMode.InterruptEdgeBoth
+                Pins.GPIO_PIN_D2,
+                true,
+                Port.ResistorMode.PullUp,
+                Port.InterruptMode.InterruptEdgeLow
                 );
 
             btn_dir.OnInterrupt += (a_, b_, dt_) =>
             {
                 Debug.Print("sending ...");
-                codec.Send(0xFF00, 0x827D);
+                codec.Send(0xFF00, 0xE01F);
             };
 
             Thread.Sleep(Timeout.Infinite);

@@ -22,13 +22,10 @@ namespace IRTransmitter
     /// Class acting as driver for the NEC IR protocol
     /// </summary>
     /// <seealso cref="http://www.sbprojects.com/knowledge/ir/nec.php"/>
-    public class InfraredCodecNec
-        : InfraredCodecBase
+    public class InfraredCodecNec : InfraredCodecBase
     {
         private const float CarrierFrequency = 38.0f;   //kHz
         private const float PulseDuty = 0.3f;
-
-
 
         /// <summary>
         /// Create a new instance of codec
@@ -44,13 +41,8 @@ namespace IRTransmitter
             this.TotalPulseCount = 64;
         }
 
-
-
         private bool _toggle;
-
         public bool ExtendedMode;
-
-
 
         /// <summary>
         /// Send a Nec message

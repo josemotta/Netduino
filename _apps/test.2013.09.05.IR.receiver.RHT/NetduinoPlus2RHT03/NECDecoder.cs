@@ -48,61 +48,6 @@ namespace NetduinoPlus2RHT03
             _timeout.Change(150, Timeout.Infinite);
         }
 
-        //static void PulseTimedOut(object state)
-        //{
-        //    const long toMicrosecondsDivisor = TimeSpan.TicksPerMillisecond / 1000;
-
-        //    _timeout.Change(Timeout.Infinite, Timeout.Infinite);
-
-        //    var firstValue = _pulses[0] / toMicrosecondsDivisor;
-        //    var lastValue = firstValue;
-
-        //    for (int i = 1; i < _currentIndex; i++)
-        //    {
-        //        var currentValue = _pulses[i] / toMicrosecondsDivisor;
-        //        _pulses[i - 1] = currentValue - lastValue;
-        //        lastValue = currentValue;
-        //    }
-
-        //    uint result = 0;
-
-        //    int controlIndex = 0;
-        //    int collectedLength = 0;
-        //    bool isCollecting = false;
-
-        //    for (int i = 0; i < _currentIndex; i++)
-        //    {
-        //        if (!isCollecting && (IsInRange(_pulses[i], 9000, 200) && IsInRange(_pulses[i + 1], 4500, 200)))
-        //        {
-        //            controlIndex = i;
-        //            i = i + 2;
-        //            isCollecting = true;
-        //        }
-        //        else if (isCollecting && collectedLength < 32)
-        //        {
-        //            if ((i - controlIndex) % 2 == 1)
-        //            {
-        //                result <<= 1;
-        //                collectedLength++;
-
-        //                if (IsInRange(_pulses[i], 1690, 200))
-        //                {
-        //                    result |= 1;
-        //                }
-        //            }
-        //        }
-        //    }
-        //    uint x = (uint)_pulses[_currentIndex];
-
-        //    _currentIndex = 0;
-
-        //    if (OnIRCommandReceived != null)
-        //    {
-        //        //OnIRCommandReceived(result);
-        //        OnIRCommandReceived(x);
-        //    }
-        //}
-
         static void PulseTimedOut(object state)
         {
             var numberOfPulses = _currentIndex;
@@ -166,7 +111,61 @@ namespace NetduinoPlus2RHT03
                 _pulses[i - 1] = currentPulseLength;
             }
         }
+        // original
+        //static void PulseTimedOut(object state)
+        //{
+        //    const long toMicrosecondsDivisor = TimeSpan.TicksPerMillisecond / 1000;
 
+        //    _timeout.Change(Timeout.Infinite, Timeout.Infinite);
+
+        //    var firstValue = _pulses[0] / toMicrosecondsDivisor;
+        //    var lastValue = firstValue;
+
+        //    for (int i = 1; i < _currentIndex; i++)
+        //    {
+        //        var currentValue = _pulses[i] / toMicrosecondsDivisor;
+        //        _pulses[i - 1] = currentValue - lastValue;
+        //        lastValue = currentValue;
+        //    }
+
+        //    uint result = 0;
+
+        //    int controlIndex = 0;
+        //    int collectedLength = 0;
+        //    bool isCollecting = false;
+
+        //    for (int i = 0; i < _currentIndex; i++)
+        //    {
+        //        if (!isCollecting && (IsInRange(_pulses[i], 9000, 200) && IsInRange(_pulses[i + 1], 4500, 200)))
+        //        {
+        //            controlIndex = i;
+        //            i = i + 2;
+        //            isCollecting = true;
+        //        }
+        //        else if (isCollecting && collectedLength < 32)
+        //        {
+        //            if ((i - controlIndex) % 2 == 1)
+        //            {
+        //                result <<= 1;
+        //                collectedLength++;
+
+        //                if (IsInRange(_pulses[i], 1690, 200))
+        //                {
+        //                    result |= 1;
+        //                }
+        //            }
+        //        }
+        //    }
+        //    uint x = (uint)_pulses[_currentIndex];
+
+        //    _currentIndex = 0;
+
+        //    if (OnIRCommandReceived != null)
+        //    {
+        //        //OnIRCommandReceived(result);
+        //        OnIRCommandReceived(x);
+        //    }
+        //}
     }
 
 }
