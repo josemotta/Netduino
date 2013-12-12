@@ -42,46 +42,47 @@ namespace IRTransmitter
             var irtx = new InfraredTransmitter(Pins.GPIO_PIN_D8);
 
             //create the codec to be used
-            var codec = new InfraredCodecRC5(irtx);
+            var codec = new InfraredCodecNec(irtx);
             codec.ExtendedMode = true;
 
-            //define the button for decrement speed
-            var btn_dec = new InterruptPort(
-                Pins.GPIO_PIN_D0,
-                true,
-                Port.ResistorMode.PullUp,
-                Port.InterruptMode.InterruptEdgeLow
-                );
+            ////define the button for decrement speed
+            //var btn_dec = new InterruptPort(
+            //    Pins.GPIO_PIN_D0,
+            //    true,
+            //    Port.ResistorMode.PullUp,
+            //    Port.InterruptMode.InterruptEdgeLow
+            //    );
 
-            btn_dec.OnInterrupt += (a_, b_, dt_) =>
-            {
-                codec.Send(Address, SpeedDown);
-            };
+            //btn_dec.OnInterrupt += (a_, b_, dt_) =>
+            //{
+            //    codec.Send(Address, SpeedDown);
+            //};
 
-            //define the button for increment speed
-            var btn_inc = new InterruptPort(
-                Pins.GPIO_PIN_D1,
-                true,
-                Port.ResistorMode.PullUp,
-                Port.InterruptMode.InterruptEdgeLow
-                );
+            ////define the button for increment speed
+            //var btn_inc = new InterruptPort(
+            //    Pins.GPIO_PIN_D1,
+            //    true,
+            //    Port.ResistorMode.PullUp,
+            //    Port.InterruptMode.InterruptEdgeLow
+            //    );
 
-            btn_inc.OnInterrupt += (a_, b_, dt_) =>
-            {
-                codec.Send(Address, SpeedUp);
-            };
+            //btn_inc.OnInterrupt += (a_, b_, dt_) =>
+            //{
+            //    codec.Send(Address, SpeedUp);
+            //};
 
             //define the button for the direction
             var btn_dir = new InterruptPort(
-                Pins.GPIO_PIN_D2,
-                true,
-                Port.ResistorMode.PullUp,
-                Port.InterruptMode.InterruptEdgeLow
+                Pins.ONBOARD_SW1,
+               false,
+                Port.ResistorMode.Disabled,
+                Port.InterruptMode.InterruptEdgeBoth
                 );
 
             btn_dir.OnInterrupt += (a_, b_, dt_) =>
             {
-                codec.Send(Address, Direction);
+                Debug.Print("sending ...");
+                codec.Send(0xFF00, 0x827D);
             };
 
             Thread.Sleep(Timeout.Infinite);
