@@ -42,7 +42,7 @@ namespace IRTransmitter
         // The recommended carrier duty-cycle is 1/4 or 1/3. 
 
         private const float CarrierFrequency = 38.0f;   //kHz
-        private const float PulseDuty = 0.3f;
+        private const float PulseDuty = 0.35f;
 
         /// <summary>
         /// Create a new instance of codec
@@ -99,28 +99,34 @@ namespace IRTransmitter
             //send
             this.Transmitter
                 .Send(this);
+
+            //place the "END" pattern
+            this.MarkEnd();
         }
 
         /// <summary>
         /// Mark the start pattern of the NEC message
         /// </summary>
-        //private void MarkStart()
-        //{
-        //    //"START": 342 pulses + 171 blanks = 513 as total
-        //    this.TotalPulseCount = 513;
-        //    this.InitialPulseCount = 342;
-        //    this.FinalPulseCount = 0;
-
-        //    //append the defined pattern to the stream
-        //    this.Transmitter
-        //        .Append(this);
-        //}
-
         private void MarkStart()
         {
-            //"START": 370 pulses + 185 blanks = 555 as total
-            this.TotalPulseCount = 555;
-            this.InitialPulseCount = 370;
+            //"START": 336 pulses + 168 blanks = 504 as total
+            this.TotalPulseCount = 504;
+            this.InitialPulseCount = 336;
+            this.FinalPulseCount = 0;
+
+            //append the defined pattern to the stream
+            this.Transmitter
+                .Append(this);
+        }
+        
+        /// <summary>
+        /// Mark the start pattern of the NEC message
+        /// </summary>
+        private void MarkEnd()
+        {
+            //"END": 21 pulses = 21 as total
+            this.TotalPulseCount = 21;
+            this.InitialPulseCount = 21;
             this.FinalPulseCount = 0;
 
             //append the defined pattern to the stream
@@ -135,33 +141,20 @@ namespace IRTransmitter
         private void Modulate(bool value)
         {
             //each pulse is 26.31us (=1/38kHz), thus a period of 560us is 21 pulses
-            //if (value)
-            //{
-            //    //logic "ONE": 21 pulses + 64 blanks = 85 as total
-            //    this.TotalPulseCount = 85;
-            //    this.InitialPulseCount = 21;
-            //    this.FinalPulseCount = 0;
-            //}
-            //else
-            //{
-            //    //logic "ZERO": 21 pulses + 21 blanks = 42 as total
-            //    this.TotalPulseCount = 42;
-            //    this.InitialPulseCount = 21;
-            //    this.FinalPulseCount = 0;
-            //}
+            const int PULSE = 21;
 
             if (value)
             {
-                //logic "ONE": 23 pulses + 66 blanks = 88 as total
-                this.TotalPulseCount = 92;
-                this.InitialPulseCount = 23;
+                //logic "ONE": 21 pulses + 63 blanks = 85 as total
+                this.TotalPulseCount = 84;
+                this.InitialPulseCount = 21;
                 this.FinalPulseCount = 0;
             }
             else
             {
-                //logic "ZERO": 22 pulses + 22 blanks = 44 as total
-                this.TotalPulseCount = 46;
-                this.InitialPulseCount = 23;
+                //logic "ZERO": 21 pulses + 21 blanks = 42 as total
+                this.TotalPulseCount = 42;
+                this.InitialPulseCount = 21;
                 this.FinalPulseCount = 0;
             }
 

@@ -43,7 +43,7 @@ namespace IRTransmitter
             //calculates the actual period for pushing out one
             //ushort value, interleave including
             float t_carrier = 1 / frequency;
-            float t_ushort = t_carrier - 2e-3f;
+            float t_ushort = t_carrier - 1e-3f;
 
             //calculates the equivalent SPI frequency
             //note that an "unshort" is 16 bits

@@ -83,7 +83,9 @@ namespace IRTransmitter
             btn_dir.OnInterrupt += (a_, b_, dt_) =>
             {
                 Debug.Print("sending ...");
-                codec.Send(0xFF, 0x1F);
+                codec.Send(0xFF, 0xE0);
+                //codec.Send(0xFF, 0xEA);
+                //codec.Send(0xFF, 0xE0);
             };
 
             Thread.Sleep(Timeout.Infinite);
