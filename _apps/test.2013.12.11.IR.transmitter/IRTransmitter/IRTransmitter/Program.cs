@@ -43,7 +43,7 @@ namespace IRTransmitter
             var irtx = new InfraredTransmitter(Pins.GPIO_PIN_D8);
 
             //create the codec to be used
-            var codec = new InfraredCodecNec(irtx);
+            var codec = new InfraredCodecNEC(irtx);
             //codec.ExtendedMode = true;
 
             ////define the button for decrement speed
@@ -83,7 +83,7 @@ namespace IRTransmitter
             btn_dir.OnInterrupt += (a_, b_, dt_) =>
             {
                 Debug.Print("sending ...");
-                codec.Send(0xFF00, 0xE01F);
+                codec.Send(0xFF, 0x1F);
             };
 
             Thread.Sleep(Timeout.Infinite);

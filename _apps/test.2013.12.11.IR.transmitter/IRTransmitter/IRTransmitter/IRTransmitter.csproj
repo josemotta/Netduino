@@ -33,7 +33,7 @@
   </PropertyGroup>
   <Import Project="$(NetMfTargetsBaseDir)$(TargetFrameworkVersion)\CSharp.Targets" />
   <ItemGroup>
-    <Compile Include="InfraredCodecNec.cs" />
+    <Compile Include="InfraredCodecNEC.cs" />
     <Compile Include="InfraredCodecBase.cs" />
     <Compile Include="InfraredCodecRC5.cs" />
     <Compile Include="InfraredCodecSamsung.cs" />

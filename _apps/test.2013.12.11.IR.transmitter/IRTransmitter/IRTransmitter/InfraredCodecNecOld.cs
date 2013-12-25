@@ -22,7 +22,7 @@ namespace IRTransmitter
     /// Class acting as driver for the NEC IR protocol
     /// </summary>
     /// <seealso cref="http://www.sbprojects.com/knowledge/ir/nec.php"/>
-    public class InfraredCodecNEC : InfraredCodecBase
+    public class InfraredCodecNec : InfraredCodecBase
     {
         // NEC Infrared Transmission Protocol
         // The NEC IR transmission protocol uses pulse distance encoding of the message bits. 
@@ -48,13 +48,17 @@ namespace IRTransmitter
         /// Create a new instance of codec
         /// </summary>
         /// <param name="transmitter">A valid reference for the transmitter to be used</param>
-        public InfraredCodecNEC(InfraredTransmitter transmitter)
+        public InfraredCodecNec(InfraredTransmitter transmitter)
             : base(transmitter, CarrierFrequency, PulseDuty)
         {
+            this.TotalPulseCount = 64;
         }
 
+        private bool _toggle;
+        public bool ExtendedMode;
+
         /// <summary>
-        /// Send a NEC message
+        /// Send a Nec message
         /// </summary>
         /// <param name="address">Specifies the address in the message</param>
         /// <param name="command">Specifies the command to be sent</param>
@@ -62,38 +66,36 @@ namespace IRTransmitter
             int address,
             int command)
         {
-            int notaddress = address ^ 0xFF;    // inverte byte: address
-            int notcommand = command ^ 0xFF;    // inverte byte: command
+            //S1: always "ONE"
+            this.Modulate(true);
 
-            //place the "START" pattern
-            this.MarkStart();
-
-            //address (8 bits, LSB first)
-            for (int i = 0; i < 8; i++)
+            if (this.ExtendedMode)
             {
-                this.Modulate((address & 0x01) != 0);
-                address >>= 1;
+                //place the 7th command bit, but inverted
+                this.Modulate((command & 0x40) == 0);
+            }
+            else
+            {
+                //S2: always "ONE"
+                this.Modulate(true);
             }
 
-            //notaddress (8 bits, LSB first)
-            for (int i = 0; i < 8; i++)
+            //toggle
+            this.Modulate(this._toggle);
+            this._toggle = !this._toggle;
+
+            //address (5 bits, MSB first)
+            for (int i = 0; i < 5; i++)
             {
-                this.Modulate((notaddress & 0x01) != 0);
-                notaddress >>= 1;
-            }
-            
-            //command (8 bits, LSB first)
-            for (int i = 0; i < 8; i++)
-            {
-                this.Modulate((command & 0x01) != 0);
-                command >>= 1;
+                this.Modulate((address & 0x10) != 0);
+                address <<= 1;
             }
 
-            //notcommand (8 bits, LSB first)
-            for (int i = 0; i < 8; i++)
+            //command (6 bits, MSB first)
+            for (int i = 0; i < 6; i++)
             {
-                this.Modulate((notcommand & 0x01) != 0);
-                notcommand >>= 1;
+                this.Modulate((command & 0x20) != 0);
+                command <<= 1;
             }
 
             //send
@@ -101,32 +103,7 @@ namespace IRTransmitter
                 .Send(this);
         }
 
-        /// <summary>
-        /// Mark the start pattern of the NEC message
-        /// </summary>
-        //private void MarkStart()
-        //{
-        //    //"START": 342 pulses + 171 blanks = 513 as total
-        //    this.TotalPulseCount = 513;
-        //    this.InitialPulseCount = 342;
-        //    this.FinalPulseCount = 0;
 
-        //    //append the defined pattern to the stream
-        //    this.Transmitter
-        //        .Append(this);
-        //}
-
-        private void MarkStart()
-        {
-            //"START": 370 pulses + 185 blanks = 555 as total
-            this.TotalPulseCount = 555;
-            this.InitialPulseCount = 370;
-            this.FinalPulseCount = 0;
-
-            //append the defined pattern to the stream
-            this.Transmitter
-                .Append(this);
-        }
 
         /// <summary>
         /// Provide the modulation for the logic bit
@@ -134,34 +111,16 @@ namespace IRTransmitter
         /// <param name="value">The logic value to be modulated</param>
         private void Modulate(bool value)
         {
-            //each pulse is 26.31us (=1/38kHz), thus a period of 560us is 21 pulses
-            //if (value)
-            //{
-            //    //logic "ONE": 21 pulses + 64 blanks = 85 as total
-            //    this.TotalPulseCount = 85;
-            //    this.InitialPulseCount = 21;
-            //    this.FinalPulseCount = 0;
-            //}
-            //else
-            //{
-            //    //logic "ZERO": 21 pulses + 21 blanks = 42 as total
-            //    this.TotalPulseCount = 42;
-            //    this.InitialPulseCount = 21;
-            //    this.FinalPulseCount = 0;
-            //}
-
             if (value)
             {
-                //logic "ONE": 23 pulses + 66 blanks = 88 as total
-                this.TotalPulseCount = 92;
-                this.InitialPulseCount = 23;
-                this.FinalPulseCount = 0;
+                //logic "ONE": 32 blanks + 32 pulses = 64 as total
+                this.InitialPulseCount = 0;
+                this.FinalPulseCount = 32;
             }
             else
             {
-                //logic "ZERO": 22 pulses + 22 blanks = 44 as total
-                this.TotalPulseCount = 46;
-                this.InitialPulseCount = 23;
+                //logic "ZERO": 32 pulses + 32 blanks = 64 as total
+                this.InitialPulseCount = 32;
                 this.FinalPulseCount = 0;
             }
 
