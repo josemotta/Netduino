@@ -43,10 +43,10 @@ namespace IRTransmitter
             //calculates the actual period for pushing out one
             //ushort value, interleave including
             float t_carrier = 1 / frequency;
-            float t_ushort = t_carrier - 1e-3f;
+            float t_ushort = t_carrier - 2e-3f; // subtrai 2us (porque?)
 
             //calculates the equivalent SPI frequency
-            //note that an "unshort" is 16 bits
+            //note that an "ushort" is 16 bits
             uint spi_freq = (uint)(16.0f / t_ushort);
 
             //prevent a frequency too low: seems that Netduino hangs

@@ -39,13 +39,6 @@ namespace IRTransmitter
 
         public static void Main()
         {
-            //create the infrared transmitter driver
-            var irtx = new InfraredTransmitter(Pins.GPIO_PIN_D8);
-
-            //create the codec to be used
-            var codec = new InfraredCodecNEC(irtx);
-            //codec.ExtendedMode = true;
-
             ////define the button for decrement speed
             //var btn_dec = new InterruptPort(
             //    Pins.GPIO_PIN_D0,
@@ -72,7 +65,15 @@ namespace IRTransmitter
             //    codec.Send(Address, SpeedUp);
             //};
 
-            //define the button for the direction
+
+            //create the infrared transmitter driver
+            var irtx = new InfraredTransmitter(Pins.GPIO_PIN_D8);
+
+            //create the codec to be used
+            var codec = new InfraredCodecNEC(irtx);
+            //codec.ExtendedMode = true;
+
+            //define button for sending IR command
             var btn_dir = new InterruptPort(
                 Pins.GPIO_PIN_D2,
                 true,
@@ -84,11 +85,25 @@ namespace IRTransmitter
             {
                 Debug.Print("sending ...");
                 codec.Send(0xFF, 0xE0);
-                //codec.Send(0xFF, 0xEA);
-                //codec.Send(0xFF, 0xE0);
             };
+            
+            //Thread.Sleep(Timeout.Infinite);
 
-            Thread.Sleep(Timeout.Infinite);
+            // send non-stop sequence
+            
+            int i = 0;
+            //int[] x = {0xE0, 0xEA, 0x0E, 0x15};
+            //int[] x = { 0xFF, 0xFF, 0xFF, 0xFF };
+            //int[] x = { 0x0D, 0x1F, 0x0D, 0x1F };
+            int[] x = { 0xF2, 0xE3, 0xEA, 0xE0 }; // on, yellow, white, off
+
+            while (true)
+            {
+                codec.Send(0x00, x[i++]);
+                //codec.Send(x[i++], 0x00);
+                i = i % 4;
+                Thread.Sleep(2000);
+            }
         }
     }
 }

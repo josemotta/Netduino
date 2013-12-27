@@ -42,7 +42,8 @@ namespace IRTransmitter
         // The recommended carrier duty-cycle is 1/4 or 1/3. 
 
         private const float CarrierFrequency = 38.0f;   //kHz
-        private const float PulseDuty = 0.35f;
+        private const float PulseDuty = 0.33f;
+        private const int PulseBurstCount = 21;
 
         /// <summary>
         /// Create a new instance of codec
@@ -110,8 +111,8 @@ namespace IRTransmitter
         private void MarkStart()
         {
             //"START": 336 pulses + 168 blanks = 504 as total
-            this.TotalPulseCount = 504;
-            this.InitialPulseCount = 336;
+            this.TotalPulseCount = (16 + 8) * PulseBurstCount;
+            this.InitialPulseCount = 16 * PulseBurstCount;
             this.FinalPulseCount = 0;
 
             //append the defined pattern to the stream
@@ -124,9 +125,9 @@ namespace IRTransmitter
         /// </summary>
         private void MarkEnd()
         {
-            //"END": 21 pulses = 21 as total
-            this.TotalPulseCount = 21;
-            this.InitialPulseCount = 21;
+            //"END": 21 pulses + 21 blanks = 42 as total
+            this.TotalPulseCount = PulseBurstCount * 2;
+            this.InitialPulseCount = PulseBurstCount;
             this.FinalPulseCount = 0;
 
             //append the defined pattern to the stream
@@ -140,21 +141,18 @@ namespace IRTransmitter
         /// <param name="value">The logic value to be modulated</param>
         private void Modulate(bool value)
         {
-            //each pulse is 26.31us (=1/38kHz), thus a period of 560us is 21 pulses
-            const int PULSE = 21;
-
             if (value)
             {
-                //logic "ONE": 21 pulses + 63 blanks = 85 as total
-                this.TotalPulseCount = 84;
-                this.InitialPulseCount = 21;
+                //logic "ONE": 21 pulses + 63 blanks = 84 as total
+                this.TotalPulseCount = PulseBurstCount * 4;
+                this.InitialPulseCount = PulseBurstCount;
                 this.FinalPulseCount = 0;
             }
             else
             {
                 //logic "ZERO": 21 pulses + 21 blanks = 42 as total
-                this.TotalPulseCount = 42;
-                this.InitialPulseCount = 21;
+                this.TotalPulseCount = PulseBurstCount * 2;
+                this.InitialPulseCount = PulseBurstCount;
                 this.FinalPulseCount = 0;
             }
 
