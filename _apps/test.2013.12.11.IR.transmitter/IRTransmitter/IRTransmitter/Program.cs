@@ -99,9 +99,11 @@ namespace IRTransmitter
 
             while (true)
             {
-                codec.Send(0x00, x[i++]);
+                //codec.Send(0x00, x[i++]);
                 //codec.Send(x[i++], 0x00);
-                i = i % 4;
+                Debug.Print("... cmd " + i);
+                codec.Send(0x00, i++);
+                i = i % 256;
                 Thread.Sleep(2000);
             }
         }

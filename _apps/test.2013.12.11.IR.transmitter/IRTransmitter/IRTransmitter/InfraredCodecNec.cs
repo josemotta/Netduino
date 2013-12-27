@@ -42,7 +42,7 @@ namespace IRTransmitter
         // The recommended carrier duty-cycle is 1/4 or 1/3. 
 
         private const float CarrierFrequency = 38.0f;   //kHz
-        private const float PulseDuty = 0.33f;
+        private const float PulseDuty = 0.25f;
         private const int PulseBurstCount = 21;
 
         /// <summary>
