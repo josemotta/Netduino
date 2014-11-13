@@ -4,7 +4,13 @@ http://highfieldtales.wordpress.com/2014/03/06/micro-json-for-netduino-and-pc/
 
 https://onedrive.live.com/?cid=EC4CBA2ED0D68D68&id=EC4CBA2ED0D68D68%21859
 
+
 MicroJSON - Lightweight JSON library
 
 https://microjson.codeplex.com/SourceControl/latest
+
+
+Simple telemetry/telecontrol system based on Microsoft Azure
+ 
+https://github.com/highfield/azure-veneziano
 
