@@ -34,6 +34,13 @@ BUG 1 ---------------------------------------------------------
 http://forums.netduino.com/index.php?/topic/12096-vs2015-teething-troubles-and-some-solutions/
 No.5 Not relevent but hard to track down. If you get the error 0x80131700 MMP it is because you don't have the 3.5 version of the .net framework installed. In windows 10 goto turn windows features on or off and select .Net Framework  3.5( includes .NET 2.0 and 3.0)
 
+----------------------------------------------------------------
+.NET Micro Framework v4.4
+https://github.com/NETMF/netmf-interpreter/releases
+
+tem nova versao mas tem que esperar Netduino SDK que funcione com ele?
+----------------------------------------------------------------
+
 fica abaixo opcao para VS2013
 
 2.b Visual Studio 2013 Community Edition
