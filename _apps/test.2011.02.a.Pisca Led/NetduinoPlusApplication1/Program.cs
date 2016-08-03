@@ -23,6 +23,10 @@ namespace NetduinoPlusApplication1
                 Thread.Sleep(500);
                 led.Write(false);
                 Thread.Sleep(250);
+                led.Write(true);
+                Thread.Sleep(250);
+                led.Write(false);
+                Thread.Sleep(125);
             }
         }
 

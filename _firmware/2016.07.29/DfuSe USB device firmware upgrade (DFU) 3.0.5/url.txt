@@ -1,0 +1,43 @@
+http://forums.netduino.com/index.php?/topic/11842-how-to-recover-non-responding-netduino-3/?hl=dfuse#entry62928
+
+http://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-stm32080.html
+
+Hi DevBiker,
+
+To manually flash firmware using ST DFUSE tools, grab the latest copy of ST's DFUSE tools from the download link at the bottom of the following page:
+http://www.st.com/we...SS1533/PF257916
+
+To erase your board's firmware (do this first): ---> não precisou, a gravação abaixo apaga antes
+1. Detach your Netduino
+2. Press and hold your Netduino's pushbutton while plugging it in via USB; this will put it in bootloader mode.
+3. Erase the firmware on your Netduino using the STDFU Tester application
+> a. Select the "Protocol" tab
+> b. Press the "Create from Map" button
+> c. Select the "Erase" radio button option
+> d. Press the "Go" button
+> e. Wait for erase process to complete
+
+To create the DFU files which you will program onto your Netduino:
+1. Run "DFU File Manager" (from the ST DFU tools)
+2. Select "I want to GENERATE a DFU file" and press OK.
+3. Click "S19 or HEX..." and then select one of the firmware files in Netduino Update's respective Firmware folder.
+4. Click the "generate" button to generate a DFU file which contains the S19 (HEX) file you picked in step 3.
+5. Click "delete selected image".
+6. Repeat steps 3-5 for the other two firmware files.
+
+Finally, flash each of the .DFU files using the ST DfuSe Demonstrator application (included with STDFU Tester).
+1. Run "ST DfuSe Demonstrator"
+2. Locate the "Upgrade or Verify Action" pane (bottom-right pane)
+3. Press "Choose..." and select one of the generated DFU files
+4. Check the "Verify after download" option
+5. Press "Upgrade". It will take a few moments to update your Netduino.
+6. Repeat steps 3-5 for the other two firmware files.
+
+After you have flashed all the .DFU files, detach and reattach your Netduino (power cycle) or press "Leave DFU mode".
+
+This takes quite a few more steps than Netduino Update, but it should get you back up and running.
+
+Did these instructions enable you to reflash your board?
+
+Chris 
+
